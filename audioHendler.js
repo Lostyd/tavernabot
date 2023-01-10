@@ -20,7 +20,7 @@ const player = createAudioPlayer({
 async function getTracksByPlaylist(url, author, message, bot) {
 	
 	try {
-		await api.init({ username: "akershus.daniil@yandex.ru", password: "080412yl" });
+		await api.init({ username: process.env.yl, password: process.env.yp });
 		const playlists = require('./playlists.json')
 		if (playlists.urls.indexOf(url) < 0) {
 			playlists.urls.push(url)
@@ -224,7 +224,7 @@ async function getNextResourse() {
 	} else if (currentResourse > resourseCollection.length-2 && loopFLag === 1) {
 		console.log('hui')
 		currentResourse = 0
-		await api.init({ username: "akershus.daniil@yandex.ru", password: "080412yl" });
+		await api.init({username: process.env.yl, password: process.env.yp });
 		const trackInfo = await api.getTrackDownloadInfo(resourseCollection[currentResourse].resourse)
 		const trackDownloadLink = await api.getTrackDirectLink(trackInfo[0].downloadInfoUrl)
 		const resourse = await createAudioResource(trackDownloadLink)
@@ -232,7 +232,7 @@ async function getNextResourse() {
 	} else {
 		console.log('her')
 		currentResourse++
-		await api.init({ username: "akershus.daniil@yandex.ru", password: "080412yl" });
+		await api.init({ username: process.env.yl, password: process.env.yp });
 		const trackInfo = await api.getTrackDownloadInfo(resourseCollection[currentResourse].resourse)
 		const trackDownloadLink = await api.getTrackDirectLink(trackInfo[0].downloadInfoUrl)
 		const resourse = await createAudioResource(trackDownloadLink)
