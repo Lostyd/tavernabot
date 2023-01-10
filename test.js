@@ -11,7 +11,7 @@ const discord = require('discord.js')
 const { createAudioPlayer, NoSubscriberBehavior, createAudioResource } = require('@discordjs/voice');
 const webhookHendler = require('./webhookHendler')
 const { joinVoiceChannel } = require('@discordjs/voice');
-const webhookClient = new discord.WebhookClient({ url: 'https://discord.com/api/webhooks/1042136160627077192/-PZhShyIyBSRjtWb9T2eYS3d35f8GpVM-7c7bnzUY4tBOQVyJEgYTg7AcyK8N4iUZkh5' });
+const webhookClient = new discord.WebhookClient({ url: process.env.hook });
 const ffmpeg = require('ffmpeg-static')
 var resurse;  
 
@@ -304,4 +304,4 @@ bot.on('messageCreate', async message => {
 //передача экземпляра браузера контроллеру
 //scraperController(browserInstance)
 
-bot.login('MTAzNjc2ODI1MTgxMzgyMjYwNQ.GZ5Oyb.mKCd4RHCxuelDTMnPPUD8FBZ_JStUMRQPPgNcQ')
+bot.login(process.env.token)
