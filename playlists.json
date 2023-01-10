@@ -1,0 +1,2384 @@
+{
+  "urls": [
+    "users/promo@localcrew.ru/playlists/1009",
+    "users/yamusic-bestsongs/playlists/5054100",
+    "users/yamusic-bestsongs/playlists/5097198",
+    "users/music.partners/playlists/1369",
+    "users/RockCult/playlists/1369"
+  ],
+  "playlists": [
+    {
+      "title": "Local Crew: кольская сверхглубокая",
+      "description": "Кубанский нойз-кор и другие разновидности хевиметалла современности: классический фонк, даркфонк, дарктреп, шедоуреп и другие аудионаркотики.",
+      "tracks": [
+        {
+          "name": "LIBERTY",
+          "title": "IRICOM",
+          "id": 105228545
+        },
+        {
+          "name": "SACRIFICE",
+          "title": "REPOST",
+          "id": 82320895
+        },
+        {
+          "name": "ANNIHILATOR CANNON",
+          "title": "ORCHARD",
+          "id": 93065776
+        },
+        {
+          "name": "NEGATIVE CHARGE",
+          "title": "IRICOM",
+          "id": 98090445
+        },
+        {
+          "name": "Yesterday 3582",
+          "title": "INGROOVES",
+          "id": 6203285
+        },
+        {
+          "name": "Space Shift",
+          "title": "ORCHARD",
+          "id": 78081349
+        },
+        {
+          "name": "Purple Rain",
+          "title": "MEDIALAND",
+          "id": 104700085
+        },
+        {
+          "name": "AVATAR",
+          "title": "IRICOM",
+          "id": 106612582
+        },
+        {
+          "name": "Eternal",
+          "title": "TRANSLATION_ENTERPRISES",
+          "id": 70540250
+        },
+        {
+          "name": "Creepy House",
+          "title": "ORCHARD",
+          "id": 100344905
+        },
+        {
+          "name": "Devil Night",
+          "title": "FRESH_TUNES",
+          "id": 102389272
+        },
+        {
+          "name": "Devouring Mist",
+          "title": "BELIEVE_DIGITAL",
+          "id": 98379306
+        },
+        {
+          "name": "Skyline",
+          "title": "FRESH_TUNES",
+          "id": 44425456
+        },
+        {
+          "name": "PRESAGE",
+          "title": "REPOST",
+          "id": 83996217
+        },
+        {
+          "name": "MOTION",
+          "title": "ORCHARD",
+          "id": 98250472
+        },
+        {
+          "name": "Dark Pact",
+          "title": "IRICOM",
+          "id": 105243633
+        },
+        {
+          "name": "Miss the Phonk",
+          "title": "FRESH_TUNES",
+          "id": 90717889
+        },
+        {
+          "name": "SAMURAI PHONK",
+          "title": "IRICOM",
+          "id": 104884554
+        },
+        {
+          "name": "OUT DA CUT (4EVA)",
+          "title": "TUNECORE",
+          "id": 105265106
+        },
+        {
+          "name": "IMMORTAL",
+          "title": "REPOST",
+          "id": 88718967
+        },
+        {
+          "name": "PHONK-PHONK",
+          "title": "REPOST",
+          "id": 87507378
+        },
+        {
+          "name": "Ready To Do",
+          "title": "DISTROKID",
+          "id": 93064590
+        },
+        {
+          "name": "Shadow Lady",
+          "title": "BELIEVE_DIGITAL",
+          "id": 94437346
+        },
+        {
+          "name": "Dirty Hoes",
+          "title": "DISTROKID",
+          "id": 93064591
+        },
+        {
+          "name": "ETERNAL",
+          "title": "DISTROKID",
+          "id": 85153331
+        },
+        {
+          "name": "BLOOD FIRE",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 79112171
+        },
+        {
+          "name": "Rays of Serenity",
+          "title": "IRICOM",
+          "id": 106310701
+        },
+        {
+          "name": "RAPTURE",
+          "title": "IRICOM",
+          "id": 105204762
+        },
+        {
+          "name": "WAKE UP!",
+          "title": "IRICOM",
+          "id": 105649084
+        },
+        {
+          "name": "Cranium Ice",
+          "title": "KUDOS",
+          "id": 53096212
+        },
+        {
+          "name": "IZY KILLA THANG",
+          "title": "CYGNUS_MUSIC",
+          "id": 96557511
+        },
+        {
+          "name": "Deadly Sins",
+          "title": "DISTROKID",
+          "id": 94572897
+        },
+        {
+          "name": "Like Villains",
+          "title": "DISTROKID",
+          "id": 82842690
+        },
+        {
+          "name": "PARADISE",
+          "title": "BELIEVE_DIGITAL",
+          "id": 104098686
+        },
+        {
+          "name": "Horizon",
+          "title": "BELIEVE_DIGITAL",
+          "id": 96341891
+        },
+        {
+          "name": "Vhs Special",
+          "title": "IRICOM",
+          "id": 72509688
+        },
+        {
+          "name": "Meet Me At The Shrine",
+          "title": "DISTROKID",
+          "id": 95685662
+        },
+        {
+          "name": "High Haze",
+          "title": "FRESH_TUNES",
+          "id": 44425453
+        },
+        {
+          "name": "Space Demxn",
+          "title": "FRESH_TUNES",
+          "id": 84719555
+        },
+        {
+          "name": "Suicide Year",
+          "title": "FRESH_TUNES",
+          "id": 88811531
+        },
+        {
+          "name": "UNDERWORLD",
+          "title": "BROMA16",
+          "id": 89038204
+        },
+        {
+          "name": "Midnight Club",
+          "title": "IRICOM",
+          "id": 104040135
+        },
+        {
+          "name": "AMNESIA",
+          "title": "ORCHARD",
+          "id": 69610353
+        },
+        {
+          "name": "SCREAMING THROUGH THE VOID",
+          "title": "REPOST",
+          "id": 85560080
+        },
+        {
+          "name": "Gotta Touch Em' (Pt.2)",
+          "title": "ORCHARD",
+          "id": 7407488
+        },
+        {
+          "name": "NIGHT DRIVE",
+          "title": "ORCHARD",
+          "id": 99280807
+        },
+        {
+          "name": "Connection",
+          "title": "ORCHARD",
+          "id": 77682445
+        },
+        {
+          "name": "IKARI",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 101675036
+        },
+        {
+          "name": "Time X",
+          "title": "ORCHARD",
+          "id": 86942303
+        },
+        {
+          "name": "ZOV",
+          "title": "IRICOM",
+          "id": 107616959
+        },
+        {
+          "name": "1999",
+          "title": "DISTROKID",
+          "id": 84719277
+        },
+        {
+          "name": "значит ты уже большой",
+          "title": "MULTIZA",
+          "id": 105290904
+        },
+        {
+          "name": "deep black sea",
+          "title": "BELIEVE_DIGITAL",
+          "id": 103807092
+        },
+        {
+          "name": "Erase me",
+          "title": "REPOST",
+          "id": 102734198
+        },
+        {
+          "name": "DECEPTION ARROW",
+          "title": "IRICOM",
+          "id": 104222936
+        },
+        {
+          "name": "Genesis",
+          "title": "BELIEVE_DIGITAL",
+          "id": 104910572
+        },
+        {
+          "name": "Memphis Deep",
+          "title": "ORCHARD",
+          "id": 92151826
+        },
+        {
+          "name": "ONGBAK",
+          "title": "TRANSLATION_ENTERPRISES",
+          "id": 103113814
+        },
+        {
+          "name": "Fate",
+          "title": "IRICOM",
+          "id": 104701733
+        },
+        {
+          "name": "End of the World",
+          "title": "ORCHARD",
+          "id": 90714641
+        },
+        {
+          "name": "Beat Them Down",
+          "title": "DISTROKID",
+          "id": 85565879
+        },
+        {
+          "name": "PLASTIC MEMORIES",
+          "title": "IRICOM",
+          "id": 107549227
+        },
+        {
+          "name": "Dead Speaker",
+          "title": "IRICOM",
+          "id": 101090150
+        },
+        {
+          "name": "Reaper Death Seal",
+          "title": "EMPIRE",
+          "id": 95080452
+        },
+        {
+          "name": "Lithuanian",
+          "title": "DISTROKID",
+          "id": 81772428
+        },
+        {
+          "name": "Wicked Hearts",
+          "title": "REPOST",
+          "id": 81589864
+        },
+        {
+          "name": "NERVES",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 106091361
+        },
+        {
+          "name": "DREVMSCAPE",
+          "title": "BELIEVE_DIGITAL",
+          "id": 104109320
+        },
+        {
+          "name": "187",
+          "title": "FRESH_TUNES",
+          "id": 41370612
+        },
+        {
+          "name": "GET OUT MY MIND",
+          "title": "REPOST",
+          "id": 76641286
+        },
+        {
+          "name": "Purple Oblivion",
+          "title": "DISTROKID",
+          "id": 90105253
+        },
+        {
+          "name": "HOSTAGE OF DEPTH",
+          "title": "REPOST",
+          "id": 67893591
+        },
+        {
+          "name": "Hold My Grip",
+          "title": "FRESH_TUNES",
+          "id": 77702150
+        },
+        {
+          "name": "DEVIL 666",
+          "title": "ORCHARD",
+          "id": 90253402
+        },
+        {
+          "name": "9mm",
+          "title": "IRICOM",
+          "id": 86746799
+        },
+        {
+          "name": "sadistic",
+          "title": "ORCHARD",
+          "id": 88719251
+        },
+        {
+          "name": "Once From Evil",
+          "title": "DISTROKID",
+          "id": 89869252
+        },
+        {
+          "name": "MENACE",
+          "title": "IRICOM",
+          "id": 106014060
+        },
+        {
+          "name": "VICE",
+          "title": "DISTROKID",
+          "id": 80737569
+        },
+        {
+          "name": "Sahara",
+          "title": "IRICOM",
+          "id": 96277882
+        },
+        {
+          "name": "BULLET",
+          "title": "BELIEVE_DIGITAL",
+          "id": 106844216
+        },
+        {
+          "name": "RIGHT AFTER DAT",
+          "title": "DISTROKID",
+          "id": 95898812
+        },
+        {
+          "name": "SUNSET",
+          "title": "DISTROKID",
+          "id": 80737577
+        },
+        {
+          "name": "SUICIDE YEAR",
+          "title": "ORCHARD",
+          "id": 88253142
+        },
+        {
+          "name": "OMEN OF TROUBLE",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 89167773
+        },
+        {
+          "name": "tonight",
+          "title": "TRANSLATION_ENTERPRISES",
+          "id": 61424101
+        },
+        {
+          "name": "Fortress",
+          "title": "REPOST",
+          "id": 82065592
+        },
+        {
+          "name": "BLOOD FLAME",
+          "title": "IRICOM",
+          "id": 104000466
+        },
+        {
+          "name": "vxzduh",
+          "title": "BELIEVE_DIGITAL",
+          "id": 105809766
+        },
+        {
+          "name": "forgotten",
+          "title": "DISTROKID",
+          "id": 87831236
+        },
+        {
+          "name": "Death Curse",
+          "title": "SONY_RU",
+          "id": 102403345
+        },
+        {
+          "name": "Paradise",
+          "title": "BELIEVE_DIGITAL",
+          "id": 91526160
+        },
+        {
+          "name": "WORSTMANE",
+          "title": "ORCHARD",
+          "id": 99280715
+        },
+        {
+          "name": "Keeper of the Void",
+          "title": "ORCHARD",
+          "id": 98736152
+        },
+        {
+          "name": "PHOENIX",
+          "title": "DISTROKID",
+          "id": 99447308
+        },
+        {
+          "name": "Noxious Impact",
+          "title": "ORCHARD",
+          "id": 85564898
+        },
+        {
+          "name": "Hydra",
+          "title": "FRESH_TUNES",
+          "id": 75788330
+        },
+        {
+          "name": "NECROMANCY",
+          "title": "REPOST",
+          "id": 74442069
+        },
+        {
+          "name": "I may rise but I'll never Shine",
+          "title": "DISTROKID",
+          "id": 102175474
+        },
+        {
+          "name": "Electricity",
+          "title": "ORCHARD",
+          "id": 87798299
+        },
+        {
+          "name": "Devil Trap",
+          "title": "FRESH_TUNES",
+          "id": 103532485
+        },
+        {
+          "name": "1000 Blunts",
+          "title": "BELIEVE_DIGITAL",
+          "id": 72552386
+        },
+        {
+          "name": "ESCAPISM",
+          "title": "DISTROKID",
+          "id": 92935052
+        },
+        {
+          "name": "Above The Clouds",
+          "title": "ORCHARD",
+          "id": 1278839
+        },
+        {
+          "name": "THE BASE OF THE AKATSUKI",
+          "title": "BELIEVE_DIGITAL",
+          "id": 77691539
+        },
+        {
+          "name": "ILLUSION",
+          "title": "ORCHARD",
+          "id": 98253470
+        },
+        {
+          "name": "Dirtface Slanger",
+          "title": "DISTROKID",
+          "id": 97378315
+        },
+        {
+          "name": "TRIGGERING ANOTHER MANIC EPISODE FROM RAMPANT DRUG ABUSE",
+          "title": "DISTROKID",
+          "id": 90134784
+        },
+        {
+          "name": "Life after dead",
+          "title": "IRICOM",
+          "id": 84386079
+        },
+        {
+          "name": "FUKUROU",
+          "title": "BELIEVE_DIGITAL",
+          "id": 90230546
+        },
+        {
+          "name": "Burning In My Soul",
+          "title": "DASHGO",
+          "id": 95059436
+        },
+        {
+          "name": "AMNESIA",
+          "title": "IRICOM",
+          "id": 103912711
+        },
+        {
+          "name": "POWERSLIDE",
+          "title": "ORCHARD",
+          "id": 92302408
+        },
+        {
+          "name": "Sold 20 Sacks After The Bass Session",
+          "title": "DISTROKID",
+          "id": 82842698
+        },
+        {
+          "name": "Fifth",
+          "title": "DISTROKID",
+          "id": 93064592
+        },
+        {
+          "name": "OUT THE DOOR",
+          "title": "DISTROKID",
+          "id": 84159803
+        },
+        {
+          "name": "PERSONALITY",
+          "title": "REPOST",
+          "id": 96840473
+        },
+        {
+          "name": "Cry Of Fear",
+          "title": "DISTROKID",
+          "id": 97898416
+        },
+        {
+          "name": "Universe",
+          "title": "IRICOM",
+          "id": 94800865
+        },
+        {
+          "name": "Madara",
+          "title": "BELIEVE_DIGITAL",
+          "id": 70440438
+        },
+        {
+          "name": "SLAYER",
+          "title": "DASHGO",
+          "id": 95059425
+        },
+        {
+          "name": "CHRISMASMANE",
+          "title": "ORCHARD",
+          "id": 97509073
+        },
+        {
+          "name": "Scary Garry",
+          "title": "ORCHARD",
+          "id": 75819547
+        },
+        {
+          "name": "POWDER",
+          "title": "IRICOM",
+          "id": 93437419
+        },
+        {
+          "name": "Shadows",
+          "title": "IRICOM",
+          "id": 104535066
+        },
+        {
+          "name": "True playa",
+          "title": "REPOST",
+          "id": 82512840
+        },
+        {
+          "name": "DEPRAVED NIGHT",
+          "title": "REPOST",
+          "id": 79161028
+        },
+        {
+          "name": "Motion",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 105246781
+        },
+        {
+          "name": "Tell Yo Bustas",
+          "title": "FRESH_TUNES",
+          "id": 61951980
+        },
+        {
+          "name": "Violet",
+          "title": "IRICOM",
+          "id": 105649075
+        },
+        {
+          "name": "CELESTIAL EXTINCTION",
+          "title": "REPOST",
+          "id": 89540009
+        },
+        {
+          "name": "Эхо",
+          "title": "RIGHT_PHONICS",
+          "id": 104187542
+        },
+        {
+          "name": "Flyin High",
+          "title": "FRESH_TUNES",
+          "id": 68348080
+        },
+        {
+          "name": "NIRVANA",
+          "title": "BROMA16",
+          "id": 88920595
+        },
+        {
+          "name": "Feel the Pain",
+          "title": "BELIEVE_DIGITAL",
+          "id": 103136944
+        },
+        {
+          "name": "Furuta",
+          "title": "BELIEVE_DIGITAL",
+          "id": 98111154
+        },
+        {
+          "name": "BLAST",
+          "title": "ORCHARD",
+          "id": 75528372
+        },
+        {
+          "name": "MISTED",
+          "title": "IRICOM",
+          "id": 105535119
+        },
+        {
+          "name": "5 A.M.",
+          "title": "ORCHARD",
+          "id": 86204966
+        },
+        {
+          "name": "DECAY TO GRAVES",
+          "title": "IRICOM",
+          "id": 85682389
+        },
+        {
+          "name": "SHOOTTRIGGAMAN",
+          "title": "BROMA16",
+          "id": 98674017
+        },
+        {
+          "name": "Phonk House",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 96385512
+        },
+        {
+          "name": "FADING MEMORY",
+          "title": "REPOST",
+          "id": 85557623
+        },
+        {
+          "name": "Susanoo",
+          "title": "FRESH_TUNES",
+          "id": 84541124
+        },
+        {
+          "name": "ORANGE SODA",
+          "title": "REPOST",
+          "id": 47320373
+        },
+        {
+          "name": "Ordinary Day",
+          "title": "ORCHARD",
+          "id": 98331078
+        },
+        {
+          "name": "DARK DESCENT",
+          "title": "ORCHARD",
+          "id": 92737943
+        },
+        {
+          "name": "BREAKIN'",
+          "title": "ORCHARD",
+          "id": 87216531
+        },
+        {
+          "name": "Memories of Murder",
+          "title": "DISTROKID",
+          "id": 93608245
+        },
+        {
+          "name": "Cowbang Motherfucker",
+          "title": "ORCHARD",
+          "id": 76996126
+        },
+        {
+          "name": "MY CUTE GUY",
+          "title": "IRICOM",
+          "id": 106056510
+        },
+        {
+          "name": "Unknown",
+          "title": "DISTROKID",
+          "id": 99046394
+        },
+        {
+          "name": "Aura",
+          "title": "ORCHARD",
+          "id": 98266962
+        },
+        {
+          "name": "ESSENTIA",
+          "title": "REPOST",
+          "id": 88495274
+        },
+        {
+          "name": "Deep When We Creep",
+          "title": "DISTROKID",
+          "id": 82664622
+        },
+        {
+          "name": "Sahara",
+          "title": "IRICOM",
+          "id": 94578006
+        },
+        {
+          "name": "Long Nights",
+          "title": "ORCHARD",
+          "id": 94747645
+        },
+        {
+          "name": "Odium",
+          "title": "ORCHARD",
+          "id": 58723120
+        },
+        {
+          "name": "FALSE AWAKENING",
+          "title": "BELIEVE_DIGITAL",
+          "id": 90339678
+        },
+        {
+          "name": "Gladiator",
+          "title": "IRICOM",
+          "id": 108367063
+        },
+        {
+          "name": "BLAST",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 89167768
+        },
+        {
+          "name": "CURSE FROM HEAVEN",
+          "title": "BROMA16",
+          "id": 89671607
+        },
+        {
+          "name": "F--k a Hoe (feat. Tom Skeemask, Criminal Manne, DJ Zirk & Kilo G)",
+          "title": "ORCHARD",
+          "id": 7351895
+        },
+        {
+          "name": "memento mori",
+          "title": "ORCHARD",
+          "id": 92321294
+        },
+        {
+          "name": "PHONK FOR CARS",
+          "title": "DISTROKID",
+          "id": 87176342
+        },
+        {
+          "name": "Synth Sounds",
+          "title": "FRESH_TUNES",
+          "id": 83055452
+        },
+        {
+          "name": "CATCH THE BUZZ",
+          "title": "BROMA16",
+          "id": 89824780
+        },
+        {
+          "name": "Tokyo",
+          "title": "ORCHARD",
+          "id": 85714614
+        },
+        {
+          "name": "No Limits",
+          "title": "BELIEVE_DIGITAL",
+          "id": 77866413
+        },
+        {
+          "name": "EVICTION",
+          "title": "DISTROKID",
+          "id": 83920844
+        },
+        {
+          "name": "PERFECTION",
+          "title": "DISTROKID",
+          "id": 81871935
+        },
+        {
+          "name": "Caves",
+          "title": "TUNECORE",
+          "id": 85759103
+        },
+        {
+          "name": "Milky Way",
+          "title": "ORCHARD",
+          "id": 95074231
+        },
+        {
+          "name": "The Strange and the Kind",
+          "title": "BWSCD",
+          "id": 32916911
+        },
+        {
+          "name": "Vostok-1",
+          "title": "MEDIALAND",
+          "id": 103246993
+        },
+        {
+          "name": "Nothing but a hustle",
+          "title": "IRICOM",
+          "id": 93394540
+        },
+        {
+          "name": "Hope",
+          "title": "ORCHARD",
+          "id": 102326501
+        },
+        {
+          "name": "PRESS F9 TO PAY RESPECT",
+          "title": "REPOST",
+          "id": 98140194
+        },
+        {
+          "name": "Last Breath",
+          "title": "DISTROKID",
+          "id": 84988944
+        },
+        {
+          "name": "Drop That",
+          "title": "FRESH_TUNES",
+          "id": 82759851
+        },
+        {
+          "name": "dark side of the moon",
+          "title": "REPOST",
+          "id": 96770916
+        },
+        {
+          "name": "SUCH A PAIN",
+          "title": "BROMA16",
+          "id": 89462272
+        },
+        {
+          "name": "RATHERFEELNOTHING",
+          "title": "WORX",
+          "id": 68797668
+        },
+        {
+          "name": "Money Or Murda",
+          "title": "DISTROKID",
+          "id": 85453084
+        },
+        {
+          "name": "PLAY ABILITY",
+          "title": "BELIEVE_DIGITAL",
+          "id": 104533308
+        },
+        {
+          "name": "Sun Nowadays",
+          "title": "BELIEVE_DIGITAL",
+          "id": 103363456
+        },
+        {
+          "name": "TECHNO KILLA",
+          "title": "IRICOM",
+          "id": 104829788
+        },
+        {
+          "name": "Riders",
+          "title": "BELIEVE_DIGITAL",
+          "id": 88712676
+        },
+        {
+          "name": "ALTITUDE",
+          "title": "DISTROKID",
+          "id": 96397759
+        },
+        {
+          "name": "Space Odyssey",
+          "title": "ONERPM",
+          "id": 58813322
+        },
+        {
+          "name": "APATHETIC",
+          "title": "REPOST",
+          "id": 84980738
+        },
+        {
+          "name": "ESSENCE",
+          "title": "ORCHARD",
+          "id": 93065647
+        },
+        {
+          "name": "SHUT UP FUCK BITCHES",
+          "title": "BROMA16",
+          "id": 89462279
+        },
+        {
+          "name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
+          "title": "ORCHARD",
+          "id": 38157299
+        },
+        {
+          "name": "Runnin thru ma mind",
+          "title": "DISTROKID",
+          "id": 99649122
+        },
+        {
+          "name": "Chernika",
+          "title": "TUNECORE",
+          "id": 85759109
+        },
+        {
+          "name": "LOST IN UNIVERSE",
+          "title": "DISTROKID",
+          "id": 100708898
+        },
+        {
+          "name": "Lobotomy",
+          "title": "DISTROKID",
+          "id": 88850513
+        },
+        {
+          "name": "Don't Ask",
+          "title": "IRICOM",
+          "id": 104503966
+        },
+        {
+          "name": "LOUD EXHAUST",
+          "title": "ORCHARD",
+          "id": 99244781
+        },
+        {
+          "name": "Spirit",
+          "title": "FRESH_TUNES",
+          "id": 75788332
+        },
+        {
+          "name": "Galaxy",
+          "title": "ORCHARD",
+          "id": 93877752
+        },
+        {
+          "name": "Blaze Shit",
+          "title": "FRESH_TUNES",
+          "id": 55218623
+        },
+        {
+          "name": "OVER FREEDOM",
+          "title": "REPOST",
+          "id": 82381695
+        },
+        {
+          "name": "SHUT UP",
+          "title": "DASHGO",
+          "id": 98050420
+        },
+        {
+          "name": "LIVIN N THIS HELLHOLE",
+          "title": "REPOST",
+          "id": 79161020
+        },
+        {
+          "name": "PRAYER",
+          "title": "ORCHARD",
+          "id": 99454317
+        },
+        {
+          "name": "FANTASY",
+          "title": "REPOST",
+          "id": 84550446
+        },
+        {
+          "name": "In The Cut",
+          "title": "STATE51_CONSPIRACY",
+          "id": 53603269
+        },
+        {
+          "name": "Meiyo to Songen",
+          "title": "BELIEVE_DIGITAL",
+          "id": 102184168
+        },
+        {
+          "name": "Black Seas",
+          "title": "DISTROKID",
+          "id": 83976660
+        },
+        {
+          "name": "YOUR SMILE",
+          "title": "ORCHARD",
+          "id": 99384523
+        },
+        {
+          "name": "Nicotine (prod. by DJ WESSTAG)",
+          "title": "IRICOM",
+          "id": 103080185
+        },
+        {
+          "name": "PUSHTA",
+          "title": "ORCHARD",
+          "id": 85273106
+        },
+        {
+          "name": "TO FEEL PAIN",
+          "title": "ORCHARD",
+          "id": 96270352
+        },
+        {
+          "name": "Dreamcore",
+          "title": "ORCHARD",
+          "id": 94603880
+        },
+        {
+          "name": "AFTERLIFE",
+          "title": "BELIEVE_DIGITAL",
+          "id": 102919479
+        },
+        {
+          "name": "Purple Thug",
+          "title": "REPOST",
+          "id": 92826873
+        },
+        {
+          "name": "SCARRY",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 79102227
+        },
+        {
+          "name": "Workshop",
+          "title": "DISTROKID",
+          "id": 93282100
+        },
+        {
+          "name": "Record in Studio 1994",
+          "title": "FRESH_TUNES",
+          "id": 41379911
+        },
+        {
+          "name": "GALE FORCE",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 104720433
+        },
+        {
+          "name": "Japan Street",
+          "title": "CYGNUS_MUSIC",
+          "id": 102856624
+        },
+        {
+          "name": "DON'T STOP",
+          "title": "IRICOM",
+          "id": 106685995
+        },
+        {
+          "name": "GUTS",
+          "title": "DISTROKID",
+          "id": 103143545
+        },
+        {
+          "name": "Live Another Day",
+          "title": "IRICOM",
+          "id": 90063363
+        },
+        {
+          "name": "CHEATING BROTHER$",
+          "title": "IRICOM",
+          "id": 104222935
+        },
+        {
+          "name": "MKR",
+          "title": "IRICOM",
+          "id": 93169529
+        },
+        {
+          "name": "POINT VISION",
+          "title": "ORCHARD",
+          "id": 93959501
+        },
+        {
+          "name": "THE FAULT",
+          "title": "IRICOM",
+          "id": 105103310
+        },
+        {
+          "name": "Peace",
+          "title": "IRICOM",
+          "id": 105011232
+        },
+        {
+          "name": "Nothing Else",
+          "title": "FRESH_TUNES",
+          "id": 103805443
+        },
+        {
+          "name": "DRUG ADDICTED",
+          "title": "ORCHARD",
+          "id": 91587890
+        },
+        {
+          "name": "Got A Plan",
+          "title": "DISTROKID",
+          "id": 102054805
+        },
+        {
+          "name": "SLIDIN' LUNATIC",
+          "title": "DISTROKID",
+          "id": 94071894
+        },
+        {
+          "name": "BURIAL",
+          "title": "BROMA16",
+          "id": 89462273
+        },
+        {
+          "name": "Gold",
+          "title": "NINJA_TUNE",
+          "id": 62177484
+        },
+        {
+          "name": "Point Of No Return",
+          "title": "DISTROKID",
+          "id": 96051911
+        },
+        {
+          "name": "Myself",
+          "title": "FRESH_TUNES",
+          "id": 69291575
+        },
+        {
+          "name": "CLEAN FLOW",
+          "title": "ORCHARD",
+          "id": 77161389
+        },
+        {
+          "name": "Mirage",
+          "title": "DISTROKID",
+          "id": 85618472
+        },
+        {
+          "name": "SPEEDFIRE",
+          "title": "REPOST",
+          "id": 93710819
+        },
+        {
+          "name": "COVID-19",
+          "title": "DISTROKID",
+          "id": 80672119
+        },
+        {
+          "name": "WARM MEMORIES",
+          "title": "IRICOM",
+          "id": 107079873
+        },
+        {
+          "name": "VO1D",
+          "title": "BELIEVE_DIGITAL",
+          "id": 95712910
+        },
+        {
+          "name": "Neva",
+          "title": "DISTROKID",
+          "id": 81370337
+        },
+        {
+          "name": "Murderers Robbers",
+          "title": "BELIEVE_DIGITAL",
+          "id": 100392269
+        },
+        {
+          "name": "FOURTWENTYSPECIAL",
+          "title": "DISTROKID",
+          "id": 91744533
+        },
+        {
+          "name": "Soul",
+          "title": "BELIEVE_DIGITAL",
+          "id": 105844476
+        },
+        {
+          "name": "Cemetery Bones",
+          "title": "DISTROKID",
+          "id": 96081195
+        },
+        {
+          "name": "FUCKING WITH SOME KILLAZ",
+          "title": "ORCHARD",
+          "id": 77938146
+        },
+        {
+          "name": "Close Eyes",
+          "title": "IRICOM",
+          "id": 84019953
+        },
+        {
+          "name": "Medusa",
+          "title": "FRESH_TUNES",
+          "id": 84754119
+        },
+        {
+          "name": "Orbit",
+          "title": "FRESH_TUNES",
+          "id": 103158340
+        },
+        {
+          "name": "Hallucination",
+          "title": "FRESH_TUNES",
+          "id": 62835292
+        },
+        {
+          "name": "EVIL SPIRITS",
+          "title": "BROMA16",
+          "id": 88911342
+        },
+        {
+          "name": "STAY BACK",
+          "title": "IRICOM",
+          "id": 99325703
+        },
+        {
+          "name": "THE GREAT ONES",
+          "title": "REPOST",
+          "id": 90784043
+        },
+        {
+          "name": "Phonk Street",
+          "title": "IRICOM",
+          "id": 84252702
+        },
+        {
+          "name": "Cyberia",
+          "title": "DISTROKID",
+          "id": 87414843
+        },
+        {
+          "name": "The Mystical Warlock",
+          "title": "TUNECORE",
+          "id": 34754285
+        },
+        {
+          "name": "Restart",
+          "title": "IRICOM",
+          "id": 103122872
+        },
+        {
+          "name": "Tommy Wright Mix",
+          "title": "FRESH_TUNES",
+          "id": 40995078
+        },
+        {
+          "name": "Terrora",
+          "title": "CYGNUS_MUSIC",
+          "id": 103191634
+        },
+        {
+          "name": "Dead Gods",
+          "title": "FRESH_TUNES",
+          "id": 42959525
+        },
+        {
+          "name": "NOSTALGIA",
+          "title": "IRICOM",
+          "id": 83197122
+        },
+        {
+          "name": "MURDA AFTER DARK",
+          "title": "REPOST",
+          "id": 68213763
+        },
+        {
+          "name": "Astral",
+          "title": "FRESH_TUNES",
+          "id": 41379915
+        },
+        {
+          "name": "Honoikazuchi",
+          "title": "BELIEVE_DIGITAL",
+          "id": 98956895
+        },
+        {
+          "name": "Buzz",
+          "title": "IRICOM",
+          "id": 84386073
+        },
+        {
+          "name": "so icy",
+          "title": "REPOST",
+          "id": 96944909
+        },
+        {
+          "name": "...And To Those I Love, Thanks For Sticking Around",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 62548063
+        },
+        {
+          "name": "Dead to Me",
+          "title": "SONOSUITE",
+          "id": 72586073
+        },
+        {
+          "name": "waisetsu",
+          "title": "BELIEVE_DIGITAL",
+          "id": 92157036
+        },
+        {
+          "name": "Now I'm High",
+          "title": "DITTO",
+          "id": 82863593
+        },
+        {
+          "name": "Underground City",
+          "title": "FRESH_TUNES",
+          "id": 50772132
+        },
+        {
+          "name": "AMISS",
+          "title": "ORCHARD",
+          "id": 63259385
+        },
+        {
+          "name": "ILLUSIONZ",
+          "title": "ORCHARD",
+          "id": 85815005
+        },
+        {
+          "name": "SCOPE",
+          "title": "DISTROKID",
+          "id": 81871938
+        },
+        {
+          "name": "Stopsex",
+          "title": "ORCHARD",
+          "id": 91994072
+        },
+        {
+          "name": "IMMORTAL II",
+          "title": "REPOST",
+          "id": 88672014
+        },
+        {
+          "name": "TOXIC MEMORIAL",
+          "title": "ORCHARD",
+          "id": 88130750
+        },
+        {
+          "name": "DARK DESCENT",
+          "title": "ORCHARD",
+          "id": 92737943
+        },
+        {
+          "name": "KAMUI",
+          "title": "REPOST",
+          "id": 93830125
+        },
+        {
+          "name": "89's",
+          "title": "REPOST",
+          "id": 96866975
+        },
+        {
+          "name": "SARCOMA",
+          "title": "DISTROKID",
+          "id": 90644071
+        },
+        {
+          "name": "DPS",
+          "title": "ORCHARD",
+          "id": 91031991
+        },
+        {
+          "name": "It's Tha Bump",
+          "title": "DISTROKID",
+          "id": 82930917
+        },
+        {
+          "name": "Tooticki / Blow",
+          "title": "KONTOR",
+          "id": 42312221
+        },
+        {
+          "name": "Purple Smoke",
+          "title": "FRESH_TUNES",
+          "id": 100917210
+        },
+        {
+          "name": "Day Funny",
+          "title": "BELIEVE_DIGITAL",
+          "id": 69986917
+        },
+        {
+          "name": "CURSED ANGEL PT. 2",
+          "title": "REPOST",
+          "id": 66047866
+        },
+        {
+          "name": "Niten Doraku",
+          "title": "BELIEVE_DIGITAL",
+          "id": 99827756
+        },
+        {
+          "name": "Ohayo",
+          "title": "IRICOM",
+          "id": 104385920
+        },
+        {
+          "name": "Poltergeist (prod. by HOSTILAZE)",
+          "title": "IRICOM",
+          "id": 88892498
+        },
+        {
+          "name": "Watch it All Unfold",
+          "title": "KUDOS",
+          "id": 53096198
+        },
+        {
+          "name": "CANT STEP TO US",
+          "title": "ORCHARD",
+          "id": 85814484
+        },
+        {
+          "name": "PLAYAHOUSE",
+          "title": "ORCHARD",
+          "id": 85483322
+        },
+        {
+          "name": "Your",
+          "title": "FRESH_TUNES",
+          "id": 104753763
+        },
+        {
+          "name": "HORSEMEN OF THE APOCALYPSE",
+          "title": "BROMA16",
+          "id": 98264139
+        },
+        {
+          "name": "Lsd Dance",
+          "title": "BELIEVE_DIGITAL",
+          "id": 86510961
+        },
+        {
+          "name": "Lay It Down",
+          "title": "FRESH_TUNES",
+          "id": 41040753
+        },
+        {
+          "name": "ENEMY AND REVENGE",
+          "title": "IRICOM",
+          "id": 105243602
+        },
+        {
+          "name": "bye bitch!",
+          "title": "IRICOM",
+          "id": 107444719
+        },
+        {
+          "name": "MASK AND DA GLOCK",
+          "title": "BROMA16",
+          "id": 98674013
+        },
+        {
+          "name": "Table Full of Kings",
+          "title": "DISTROKID",
+          "id": 99535856
+        },
+        {
+          "name": "Glxxmy",
+          "title": "FRESH_TUNES",
+          "id": 65440456
+        },
+        {
+          "name": "Power",
+          "title": "ORCHARD",
+          "id": 73949489
+        },
+        {
+          "name": "I Am So High",
+          "title": "IRICOM",
+          "id": 73963882
+        },
+        {
+          "name": "Everything Is Fine",
+          "title": "REPOST",
+          "id": 79567670
+        },
+        {
+          "name": "HEART BEAT",
+          "title": "ORCHARD",
+          "id": 96197536
+        },
+        {
+          "name": "Snow",
+          "title": "FRESH_TUNES",
+          "id": 81682510
+        },
+        {
+          "name": "ElDORADO",
+          "title": "TUNECORE",
+          "id": 34754292
+        },
+        {
+          "name": "Murder",
+          "title": "FRESH_TUNES",
+          "id": 80358121
+        },
+        {
+          "name": "Motion",
+          "title": "ORCHARD",
+          "id": 91896890
+        },
+        {
+          "name": "Leuya",
+          "title": "FRESH_TUNES",
+          "id": 86654516
+        },
+        {
+          "name": "Bladefist Lady",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 79409968
+        },
+        {
+          "name": "Valhalla",
+          "title": "REPOST",
+          "id": 79237117
+        },
+        {
+          "name": "CUTTING THE BODY PARTS",
+          "title": "BROMA16",
+          "id": 89462479
+        },
+        {
+          "name": "Одна",
+          "title": "IRICOM",
+          "id": 95758157
+        },
+        {
+          "name": "is there any sense?",
+          "title": "ORCHARD",
+          "id": 100899763
+        },
+        {
+          "name": "GRUB 11",
+          "title": "REPOST",
+          "id": 83289106
+        },
+        {
+          "name": "Necromantica",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 96385514
+        },
+        {
+          "name": "Pleasure",
+          "title": "FRESH_TUNES",
+          "id": 88661933
+        },
+        {
+          "name": "Enough",
+          "title": "FRESH_TUNES",
+          "id": 82520040
+        },
+        {
+          "name": "IM 'IN INFERNO",
+          "title": "REPOST",
+          "id": 87723501
+        },
+        {
+          "name": "SUNSHINE",
+          "title": "ELECTRONIC_MUSIC_DISTRIBUTION",
+          "id": 84388318
+        },
+        {
+          "name": "THOUGHTS IN MY HEAD",
+          "title": "BROMA16",
+          "id": 89824779
+        },
+        {
+          "name": "WHAT THE FUCK U GONNA DO?",
+          "title": "IRICOM",
+          "id": 88895296
+        },
+        {
+          "name": "KILLA",
+          "title": "BROMA16",
+          "id": 98674005
+        },
+        {
+          "name": "R.I.P. to Robert Davis",
+          "title": "IRICOM",
+          "id": 77097280
+        },
+        {
+          "name": "The Requiem",
+          "title": "BELIEVE_DIGITAL",
+          "id": 45279451
+        },
+        {
+          "name": "Intro",
+          "title": "DISTROKID",
+          "id": 92397027
+        },
+        {
+          "name": "Phoenix",
+          "title": "DISTROKID",
+          "id": 99473494
+        },
+        {
+          "name": "FULL SEND",
+          "title": "DISTROKID",
+          "id": 89269539
+        },
+        {
+          "name": "You Look Lonely",
+          "title": "DASHGO",
+          "id": 72801417
+        },
+        {
+          "name": "BUSINESS IS STILL BOOMIN",
+          "title": "REPOST",
+          "id": 79161021
+        },
+        {
+          "name": "Night Kyoto",
+          "title": "IRICOM",
+          "id": 106001871
+        },
+        {
+          "name": "Ghostphonk",
+          "title": "RECORD_JET",
+          "id": 83934993
+        },
+        {
+          "name": "River Side",
+          "title": "ORCHARD",
+          "id": 63348463
+        },
+        {
+          "name": "Oberon",
+          "title": "FRESH_TUNES",
+          "id": 71444918
+        }
+      ]
+    },
+    {
+      "title": "Лучшее: Дайте танк (!)",
+      "description": "Дайте танк (!): самые популярные треки",
+      "tracks": [
+        {
+          "name": "Обиды",
+          "title": "BELIEVE_DIGITAL",
+          "id": 34965841
+        },
+        {
+          "name": "Я",
+          "title": "BELIEVE_DIGITAL",
+          "id": 46402426
+        },
+        {
+          "name": "Чехов",
+          "title": "BELIEVE_DIGITAL",
+          "id": 35045834
+        },
+        {
+          "name": "Друг",
+          "title": "BELIEVE_DIGITAL",
+          "id": 34942212
+        },
+        {
+          "name": "Утро",
+          "title": "BELIEVE_DIGITAL",
+          "id": 34942045
+        },
+        {
+          "name": "Крепость",
+          "title": "BELIEVE_DIGITAL",
+          "id": 63104159
+        },
+        {
+          "name": "Вы",
+          "title": "BELIEVE_DIGITAL",
+          "id": 46402423
+        },
+        {
+          "name": "Грех",
+          "title": "BELIEVE_DIGITAL",
+          "id": 34956481
+        },
+        {
+          "name": "Впереди",
+          "title": "BELIEVE_DIGITAL",
+          "id": 34965847
+        },
+        {
+          "name": "Люди",
+          "title": "BELIEVE_DIGITAL",
+          "id": 62554717
+        },
+        {
+          "name": "Чудо",
+          "title": "BELIEVE_DIGITAL",
+          "id": 39463729
+        },
+        {
+          "name": "Монополия",
+          "title": "BELIEVE_DIGITAL",
+          "id": 39463732
+        },
+        {
+          "name": "Маленький",
+          "title": "BELIEVE_DIGITAL",
+          "id": 48208913
+        },
+        {
+          "name": "Профессионал",
+          "title": "BELIEVE_DIGITAL",
+          "id": 71508275
+        },
+        {
+          "name": "Спам",
+          "title": "BELIEVE_DIGITAL",
+          "id": 34942209
+        },
+        {
+          "name": "Мы",
+          "title": "BELIEVE_DIGITAL",
+          "id": 46402425
+        },
+        {
+          "name": "Шанс",
+          "title": "BELIEVE_DIGITAL",
+          "id": 65097851
+        },
+        {
+          "name": "Сказки",
+          "title": "BELIEVE_DIGITAL",
+          "id": 71508293
+        },
+        {
+          "name": "Три четверти",
+          "title": "BELIEVE_DIGITAL",
+          "id": 39463727
+        },
+        {
+          "name": "Альтернатива",
+          "title": "BELIEVE_DIGITAL",
+          "id": 71508284
+        }
+      ]
+    },
+    {
+      "title": "Лучшее: АИГЕЛ",
+      "description": "АИГЕЛ: самые популярные треки",
+      "tracks": [
+        {
+          "name": "Она ужасная",
+          "title": "IRICOM",
+          "id": 51299713
+        },
+        {
+          "name": "Свет",
+          "title": "IRICOM",
+          "id": 78002787
+        },
+        {
+          "name": "Тебе кажется",
+          "title": "IRICOM",
+          "id": 77814042
+        },
+        {
+          "name": "Драма",
+          "title": "IRICOM",
+          "id": 51299719
+        },
+        {
+          "name": "Татарин",
+          "title": "IRICOM",
+          "id": 51332341
+        },
+        {
+          "name": "Топи (Low)",
+          "title": "IRICOM",
+          "id": 77814047
+        },
+        {
+          "name": "Снег",
+          "title": "IRICOM",
+          "id": 51299712
+        },
+        {
+          "name": "Газ",
+          "title": "IRICOM",
+          "id": 108663310
+        },
+        {
+          "name": "Офигенно",
+          "title": "IRICOM",
+          "id": 69567883
+        },
+        {
+          "name": "На нашей стороне",
+          "title": "IRICOM",
+          "id": 51276410
+        },
+        {
+          "name": "Оно выделяло тепло",
+          "title": "IRICOM",
+          "id": 55877688
+        },
+        {
+          "name": "Принц на белом",
+          "title": "IRICOM",
+          "id": 51336159
+        },
+        {
+          "name": "Броманс",
+          "title": "IRICOM",
+          "id": 62062525
+        },
+        {
+          "name": "Стартую",
+          "title": "IRICOM",
+          "id": 55877691
+        },
+        {
+          "name": "Каждому нужен хозяин",
+          "title": "IRICOM",
+          "id": 77814043
+        },
+        {
+          "name": "Океаническое дно",
+          "title": "IRICOM",
+          "id": 107140125
+        },
+        {
+          "name": "Топи (High)",
+          "title": "IRICOM",
+          "id": 77814044
+        },
+        {
+          "name": "Чудовище",
+          "title": "IRICOM",
+          "id": 69567885
+        },
+        {
+          "name": "You're Born",
+          "title": "IRICOM",
+          "id": 55877684
+        },
+        {
+          "name": "Кожа",
+          "title": "IRICOM",
+          "id": 83828659
+        }
+      ]
+    },
+    {
+      "title": "Плейлист для секса",
+      "tracks": [
+        {
+          "name": "Дым сигарет с ментолом",
+          "title": "BELIEVE_DIGITAL",
+          "id": 3401974
+        },
+        {
+          "name": "My Medicine",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 2189864
+        },
+        {
+          "name": "The End",
+          "title": "WARNER",
+          "id": 17190980
+        },
+        {
+          "name": "Ace Of Spades",
+          "title": "WARNER",
+          "id": 101257
+        },
+        {
+          "name": "Ты вся из огня",
+          "title": "PIKNIK",
+          "id": 2200819
+        },
+        {
+          "name": "Open Road",
+          "title": "TUNECORE",
+          "id": 19723787
+        },
+        {
+          "name": "Лирика",
+          "title": "WARNER",
+          "id": 17198338
+        },
+        {
+          "name": "Alles aus Liebe",
+          "title": "WARNER",
+          "id": 27584579
+        },
+        {
+          "name": "Не могу оторвать глаз от тебя",
+          "title": "BELIEVE_DIGITAL",
+          "id": 2286199
+        },
+        {
+          "name": "Justify My Love",
+          "title": "WARNER",
+          "id": 171201
+        },
+        {
+          "name": "Deathblow",
+          "title": "WARNER",
+          "id": 147926
+        },
+        {
+          "name": "The Killing Moon",
+          "title": "WARNER",
+          "id": 430134
+        },
+        {
+          "name": "She's Got The Jack",
+          "title": "BELIEVE_DIGITAL",
+          "id": 38817552
+        },
+        {
+          "name": "Violence Fetish",
+          "title": "WARNER",
+          "id": 368213
+        },
+        {
+          "name": "Blood Sugar Sex Magik",
+          "title": "WARNER",
+          "id": 171258
+        },
+        {
+          "name": "Frantic Disembowelment",
+          "title": "ORCHARD",
+          "id": 20364779
+        },
+        {
+          "name": "Miracle",
+          "title": "TUNECORE",
+          "id": 37717697
+        },
+        {
+          "name": "Страху нет",
+          "title": "LAGUNA",
+          "id": 2192938
+        },
+        {
+          "name": "Pleasure Slave",
+          "title": "WARNER",
+          "id": 566890
+        },
+        {
+          "name": "Seekers Who Are Lovers",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 809617
+        },
+        {
+          "name": "I'll Take Care Of You",
+          "title": "INGROOVES",
+          "id": 4104963
+        },
+        {
+          "name": "Play God",
+          "title": "SOYUZ_MUSIC",
+          "id": 2083087
+        },
+        {
+          "name": "Punchdrunk Lovesick Singalong",
+          "title": "BEGGARS",
+          "id": 330792
+        },
+        {
+          "name": "Jump",
+          "title": "WARNER",
+          "id": 368160
+        },
+        {
+          "name": "Closer",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 797876
+        },
+        {
+          "name": "Love to love you baby",
+          "title": "BELIEVE_DIGITAL",
+          "id": 30840486
+        },
+        {
+          "name": "Death Dream",
+          "title": "WARNER",
+          "id": 27138357
+        },
+        {
+          "name": "Sit Stay Roll Over",
+          "title": "ORCHARD",
+          "id": 29210317
+        },
+        {
+          "name": "Мария и Хуана",
+          "title": "BELIEVE_DIGITAL",
+          "id": 39089635
+        },
+        {
+          "name": "Change (In the House of Flies)",
+          "title": "WARNER",
+          "id": 216535
+        },
+        {
+          "name": "Poison",
+          "title": "KONTOR",
+          "id": 609732
+        },
+        {
+          "name": "Let Her Go",
+          "title": "TUNECORE",
+          "id": 9550001
+        },
+        {
+          "name": "Южные сны",
+          "title": "SOYUZ",
+          "id": 24321872
+        },
+        {
+          "name": "Angel Of Death",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 138489
+        },
+        {
+          "name": "Ape Dos Mil",
+          "title": "WARNER",
+          "id": 31789548
+        },
+        {
+          "name": "Let's Get It On",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 64307
+        },
+        {
+          "name": "Slave To Love",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 284869
+        },
+        {
+          "name": "Why Don't We Do It In The Road?",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 27373826
+        },
+        {
+          "name": "Mama",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 492515
+        },
+        {
+          "name": "A Song For The Lovers",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 354295
+        },
+        {
+          "name": "Windswept",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 343650
+        },
+        {
+          "name": "Fire In The Water",
+          "title": "WARNER",
+          "id": 5705313
+        },
+        {
+          "name": "Your Painted Smile",
+          "title": "WARNER",
+          "id": 343652
+        },
+        {
+          "name": "Thunderhorse",
+          "title": "WARNER",
+          "id": 201156
+        },
+        {
+          "name": "I Wanna Be Your Dog",
+          "title": "WARNER",
+          "id": 424090
+        },
+        {
+          "name": "Supermassive Black Hole",
+          "title": "WARNER",
+          "id": 198009
+        },
+        {
+          "name": "Orgasm",
+          "title": "WARNER",
+          "id": 455146
+        },
+        {
+          "name": "Land Ho!",
+          "title": "WARNER",
+          "id": 17191006
+        },
+        {
+          "name": "Arriving Somewhere but Not Here",
+          "title": "ORCHARD",
+          "id": 17034546
+        },
+        {
+          "name": "Don't Stop Me Now",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 1710818
+        },
+        {
+          "name": "Je T'aime... Moi Non Plus",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 545285
+        },
+        {
+          "name": "The Girl From Ipanema",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 152489
+        },
+        {
+          "name": "Kickstart My Heart",
+          "title": "WARNER",
+          "id": 33501
+        },
+        {
+          "name": "Wasting Love",
+          "title": "WARNER",
+          "id": 301351
+        },
+        {
+          "name": "Маринад",
+          "title": "M2",
+          "id": 41125387
+        },
+        {
+          "name": "Burn",
+          "title": "WARNER",
+          "id": 2759445
+        },
+        {
+          "name": "Feeling Good",
+          "title": "CARGO",
+          "id": 4659750
+        },
+        {
+          "name": "Highway To Hell",
+          "title": "WESTSIDE_ENTERPRISES",
+          "id": 694683
+        },
+        {
+          "name": "Fields Of Gold",
+          "title": "WARNER",
+          "id": 198185
+        },
+        {
+          "name": "Let's Make It Baby",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 18249313
+        },
+        {
+          "name": "Perth",
+          "title": "BELIEVE_DIGITAL",
+          "id": 5491099
+        },
+        {
+          "name": "Venus In Furs",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 8457
+        },
+        {
+          "name": "Paint It Black",
+          "title": "ORCHARD",
+          "id": 6170312
+        },
+        {
+          "name": "White Rabbit",
+          "title": "BELIEVE_DIGITAL",
+          "id": 5089864
+        },
+        {
+          "name": "Californication",
+          "title": "WARNER",
+          "id": 148345
+        },
+        {
+          "name": "Love Manifest",
+          "title": "BELIEVE_DIGITAL",
+          "id": 25800627
+        },
+        {
+          "name": "Is This Love",
+          "title": "WARNER",
+          "id": 366270
+        },
+        {
+          "name": "I Drove All Night",
+          "title": "BELIEVE_DIGITAL",
+          "id": 609724
+        },
+        {
+          "name": "Riverside",
+          "title": "ORCHARD",
+          "id": 8757179
+        },
+        {
+          "name": "No More Lonely Nights",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 29456660
+        },
+        {
+          "name": "Слепок",
+          "title": "LAVINA",
+          "id": 20909980
+        },
+        {
+          "name": "Because the Night",
+          "title": "IIP_DDS",
+          "id": 669043
+        },
+        {
+          "name": "Rabbit In Your Headlights",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 92380
+        },
+        {
+          "name": "Do I Wanna Know?",
+          "title": "DOMINO",
+          "id": 14490440
+        },
+        {
+          "name": "Триллер",
+          "title": "IRICOM",
+          "id": 30214783
+        },
+        {
+          "name": "Hammer Smashed Face",
+          "title": "ORCHARD",
+          "id": 20598103
+        },
+        {
+          "name": "Питерский флоу",
+          "title": "PP",
+          "id": 4430505
+        },
+        {
+          "name": "I Touch Myself",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 246565
+        },
+        {
+          "name": "(I Can't Get No) Satisfaction",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 12152
+        },
+        {
+          "name": "In The Death Car",
+          "title": "ORCHARD",
+          "id": 927082
+        },
+        {
+          "name": "Everybody Needs Somebody To Love",
+          "title": "WARNER",
+          "id": 569340
+        },
+        {
+          "name": "You And Me",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 287029
+        },
+        {
+          "name": "Night Calls",
+          "title": "WARNER",
+          "id": 245393
+        },
+        {
+          "name": "All She Wants Is",
+          "title": "WARNER",
+          "id": 262705
+        },
+        {
+          "name": "Кроме любви",
+          "title": "M2BA",
+          "id": 14582924
+        },
+        {
+          "name": "My Wild Love",
+          "title": "WARNER",
+          "id": 17190988
+        },
+        {
+          "name": "Come Undone",
+          "title": "WARNER",
+          "id": 253237
+        },
+        {
+          "name": "Hero Of The Day",
+          "title": "UNIVERSAL_MUSIC",
+          "id": 33869
+        },
+        {
+          "name": "TNT",
+          "title": "BELIEVE_DIGITAL",
+          "id": 38342548
+        }
+      ]
+    }
+  ]
+}

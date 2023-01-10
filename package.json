@@ -1,0 +1,30 @@
+{
+  "name": "taverna",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "taverna",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.13.0",
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "discord.js": "^14.6.0",
+    "express": "^4.14.0",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.10",
+    "morgan": "^1.7.0",
+    "pug": "^2.0.0-beta6",
+    "puppeteer": "^19.2.2",
+    "request": "^2.88.2",
+    "serve-favicon": "^2.3.0",
+    "uuid": "^9.0.0",
+    "ym-api": "^1.2.1"
+  }
+}
